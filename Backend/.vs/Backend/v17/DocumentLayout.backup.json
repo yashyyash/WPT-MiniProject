@@ -1,34 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\CDAC_Assignments\\5_WebDevelopment_KetkiAcharya\\miniproject\\Backend\\",
+  "WorkspaceRootPath": "C:\\Users\\siddh\\Desktop\\WPT\\WPT-MiniProject\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|d:\\cdac_assignments\\5_webdevelopment_ketkiacharya\\miniproject\\backend\\backend\\dbcontextrepository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|solutionrelative:backend\\dbcontextrepository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|d:\\cdac_assignments\\5_webdevelopment_ketkiacharya\\miniproject\\backend\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|d:\\cdac_assignments\\5_webdevelopment_ketkiacharya\\miniproject\\backend\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|c:\\users\\siddh\\desktop\\wpt\\wpt-miniproject\\backend\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|solutionrelative:backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|d:\\cdac_assignments\\5_webdevelopment_ketkiacharya\\miniproject\\backend\\backend\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|c:\\users\\siddh\\desktop\\wpt\\wpt-miniproject\\backend\\backend\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|solutionrelative:backend\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|d:\\cdac_assignments\\5_webdevelopment_ketkiacharya\\miniproject\\backend\\backend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|c:\\users\\siddh\\desktop\\wpt\\wpt-miniproject\\backend\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|c:\\users\\siddh\\desktop\\wpt\\wpt-miniproject\\backend\\backend\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|c:\\users\\siddh\\desktop\\wpt\\wpt-miniproject\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|c:\\users\\siddh\\desktop\\wpt\\wpt-miniproject\\backend\\backend\\dbcontextrepository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|solutionrelative:backend\\dbcontextrepository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|c:\\users\\siddh\\desktop\\wpt\\wpt-miniproject\\backend\\backend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|c:\\users\\siddh\\desktop\\wpt\\wpt-miniproject\\backend\\backend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|solutionrelative:backend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|d:\\cdac_assignments\\5_webdevelopment_ketkiacharya\\miniproject\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|c:\\users\\siddh\\desktop\\wpt\\wpt-miniproject\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|d:\\cdac_assignments\\5_webdevelopment_ketkiacharya\\miniproject\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|c:\\users\\siddh\\desktop\\wpt\\wpt-miniproject\\backend\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B76CC2A1-6172-452C-8B89-CD0A4A49F04E}|Backend\\Backend.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,101 +50,140 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Backend",
-              "DocumentMoniker": "D:\\CDAC_Assignments\\5_WebDevelopment_KetkiAcharya\\miniproject\\Backend\\Backend\\Backend.csproj",
-              "RelativeDocumentMoniker": "Backend\\Backend.csproj",
-              "ToolTip": "D:\\CDAC_Assignments\\5_WebDevelopment_KetkiAcharya\\miniproject\\Backend\\Backend\\Backend.csproj",
-              "RelativeToolTip": "Backend\\Backend.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-17T12:06:36.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\CDAC_Assignments\\5_WebDevelopment_KetkiAcharya\\miniproject\\Backend\\Backend\\appsettings.json",
-              "RelativeDocumentMoniker": "Backend\\appsettings.json",
-              "ToolTip": "D:\\CDAC_Assignments\\5_WebDevelopment_KetkiAcharya\\miniproject\\Backend\\Backend\\appsettings.json",
-              "RelativeToolTip": "Backend\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-17T11:27:59.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CDAC_Assignments\\5_WebDevelopment_KetkiAcharya\\miniproject\\Backend\\Backend\\Program.cs",
-              "RelativeDocumentMoniker": "Backend\\Program.cs",
-              "ToolTip": "D:\\CDAC_Assignments\\5_WebDevelopment_KetkiAcharya\\miniproject\\Backend\\Backend\\Program.cs",
-              "RelativeToolTip": "Backend\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T11:24:53.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\CDAC_Assignments\\5_WebDevelopment_KetkiAcharya\\miniproject\\Backend\\Backend\\DbContextRepository\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Backend\\DbContextRepository\\AppDbContext.cs",
-              "ToolTip": "D:\\CDAC_Assignments\\5_WebDevelopment_KetkiAcharya\\miniproject\\Backend\\Backend\\DbContextRepository\\AppDbContext.cs",
-              "RelativeToolTip": "Backend\\DbContextRepository\\AppDbContext.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAA9wCMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T11:24:04.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "D:\\CDAC_Assignments\\5_WebDevelopment_KetkiAcharya\\miniproject\\Backend\\Backend\\Models\\CartItem.cs",
-              "RelativeDocumentMoniker": "Backend\\Models\\CartItem.cs",
-              "ToolTip": "D:\\CDAC_Assignments\\5_WebDevelopment_KetkiAcharya\\miniproject\\Backend\\Backend\\Models\\CartItem.cs",
-              "RelativeToolTip": "Backend\\Models\\CartItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "CartItemController.cs",
+              "DocumentMoniker": "C:\\Users\\siddh\\Desktop\\WPT\\WPT-MiniProject\\Backend\\Backend\\Controllers\\CartItemController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\CartItemController.cs",
+              "ToolTip": "C:\\Users\\siddh\\Desktop\\WPT\\WPT-MiniProject\\Backend\\Backend\\Controllers\\CartItemController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\CartItemController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T11:11:25.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\CDAC_Assignments\\5_WebDevelopment_KetkiAcharya\\miniproject\\Backend\\Backend\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Backend\\Models\\Product.cs",
-              "ToolTip": "D:\\CDAC_Assignments\\5_WebDevelopment_KetkiAcharya\\miniproject\\Backend\\Backend\\Models\\Product.cs",
-              "RelativeToolTip": "Backend\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T11:11:06.061Z",
+              "WhenOpened": "2025-05-17T13:13:26.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\CDAC_Assignments\\5_WebDevelopment_KetkiAcharya\\miniproject\\Backend\\Backend\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Backend\\Models\\User.cs",
-              "ToolTip": "D:\\CDAC_Assignments\\5_WebDevelopment_KetkiAcharya\\miniproject\\Backend\\Backend\\Models\\User.cs",
-              "RelativeToolTip": "Backend\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\siddh\\Desktop\\WPT\\WPT-MiniProject\\Backend\\Backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\siddh\\Desktop\\WPT\\WPT-MiniProject\\Backend\\Backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T11:10:46.629Z",
+              "WhenOpened": "2025-05-17T13:12:53.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\siddh\\Desktop\\WPT\\WPT-MiniProject\\Backend\\Backend\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\siddh\\Desktop\\WPT\\WPT-MiniProject\\Backend\\Backend\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:12:16.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\siddh\\Desktop\\WPT\\WPT-MiniProject\\Backend\\Backend\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\siddh\\Desktop\\WPT\\WPT-MiniProject\\Backend\\Backend\\Models\\Product.cs",
+              "RelativeToolTip": "Backend\\Models\\Product.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:01:36.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\siddh\\Desktop\\WPT\\WPT-MiniProject\\Backend\\Backend\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\siddh\\Desktop\\WPT\\WPT-MiniProject\\Backend\\Backend\\Models\\CartItem.cs",
+              "RelativeToolTip": "Backend\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:00:10.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\siddh\\Desktop\\WPT\\WPT-MiniProject\\Backend\\Backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\siddh\\Desktop\\WPT\\WPT-MiniProject\\Backend\\Backend\\Models\\User.cs",
+              "RelativeToolTip": "Backend\\Models\\User.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:55:14.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\siddh\\Desktop\\WPT\\WPT-MiniProject\\Backend\\Backend\\DbContextRepository\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Backend\\DbContextRepository\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\siddh\\Desktop\\WPT\\WPT-MiniProject\\Backend\\Backend\\DbContextRepository\\AppDbContext.cs",
+              "RelativeToolTip": "Backend\\DbContextRepository\\AppDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:44:45.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\siddh\\Desktop\\WPT\\WPT-MiniProject\\Backend\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\siddh\\Desktop\\WPT\\WPT-MiniProject\\Backend\\Backend\\appsettings.json",
+              "RelativeToolTip": "Backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T12:44:21.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\siddh\\Desktop\\WPT\\WPT-MiniProject\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\siddh\\Desktop\\WPT\\WPT-MiniProject\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:39:50.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Backend",
+              "DocumentMoniker": "C:\\Users\\siddh\\Desktop\\WPT\\WPT-MiniProject\\Backend\\Backend\\Backend.csproj",
+              "RelativeDocumentMoniker": "Backend\\Backend.csproj",
+              "ToolTip": "C:\\Users\\siddh\\Desktop\\WPT\\WPT-MiniProject\\Backend\\Backend\\Backend.csproj",
+              "RelativeToolTip": "Backend\\Backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T12:39:45.863Z",
               "EditorCaption": ""
             }
           ]
