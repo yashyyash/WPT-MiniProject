@@ -54,6 +54,24 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
+
+
+/* -------------------------------------- */
+
+
+body { font-family: Arial, sans-serif; margin: 0; }
+.nav { background:#333; padding:10px; display:flex; gap:15px; }
+.nav a, .logout-btn { color:#fff; text-decoration:none; }
+.footer { text-align:center; padding:10px 0; background:#f1f1f1; margin-top:40px; }
+.card { border:1px solid #ddd; padding:10px; text-align:center; }
+.grid { display:grid; gap:16px; grid-template-columns:repeat(auto-fill,minmax(150px,1fr)); }
+.loader { text-align:center; padding:40px; }
+button { margin-left:8px; }
+
+
+
+/* --------------------------------------------- */
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
