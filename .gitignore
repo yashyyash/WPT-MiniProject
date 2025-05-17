@@ -1,0 +1,38 @@
+# ---- Global ----
+.DS_Store
+Thumbs.db
+
+# ---- Node / React Frontend ----
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.env
+Frontend/.env.*
+
+# ---- Visual Studio / .NET Backend ----
+Backend/Backend/bin/
+Backend/Backend/obj/
+Backend/Backend/*.user
+Backend/Backend/*.db
+Backend/Backend/*.log
+Backend/Backend/appsettings.Development.json
+Backend/Backend/appsettings.Local.json
+Backend/Backend/appsettings.*.json
+
+# ---- Logs & OS files ----
+*.log
+*.vspscc
+*.vssscc
+.vscode/
+*.swp
+*.suo
+*.tmp
+*.user
+*.bak
+
+# ---- Git & Vite ----
+.env
+.vite/
+*.local
+*.cache/
+*.tsbuildinfo
+.idea/
