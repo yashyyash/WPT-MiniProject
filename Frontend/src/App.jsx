@@ -25,6 +25,7 @@ function App() {
           <Route path="/contact" element={<ContactUs />} />
 
           {/* Protected routes */}
+          
           <Route element={<ProtectedRoute />}>
             <Route path="/products" element={<Categories />} />
             <Route path="/products/:cat" element={<ProductList />} />
